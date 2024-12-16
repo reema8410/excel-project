@@ -1,2 +1,2 @@
-# excel-project
-1st project
+# EXCEL PROJECT
+1st GIT REPOSITORY
